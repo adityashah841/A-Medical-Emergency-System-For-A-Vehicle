@@ -23,4 +23,8 @@ Once the vehicle reaches a safe speed, the system initiates a parking procedure 
 
 Overall, this medical emergency system integrates camera and Lidar technologies to enable the vehicle to respond to driver incapacitation situations effectively. It takes control of the vehicle, maintains safe driving conditions, alerts emergency services, and facilitates parking in a safe location, with the ultimate goal of preventing accidents, minimizing risks, and ensuring prompt medical assistance.
 
+<h2>Acknowledgements</h2>
 
+- Riya Bihani
+- Khushi Gupta
+- Aayushman Gupta
