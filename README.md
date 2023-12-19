@@ -25,6 +25,7 @@ Overall, this medical emergency system integrates camera and Lidar technologies 
 
 <h2>Acknowledgements</h2>
 
+- <a href="https://www.linkedin.com/in/aditya-shah-139154208/">Aditya Shah</a>
 - <a href="https://www.linkedin.com/in/riya-bihani/">Riya Bihani</a>
 - <a href="https://www.linkedin.com/in/khushi-gupta-170791217/">Khushi Gupta</a>
 - <a href="https://www.linkedin.com/in/aayushman-gupta-6331601ba/">Aayushman Gupta</a>
